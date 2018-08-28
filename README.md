@@ -1,2 +1,2 @@
-# aeroWhale.github.io
-Github page
+# Dylan Sun
+Welcome to my github page.
